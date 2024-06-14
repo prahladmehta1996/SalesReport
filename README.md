@@ -11,7 +11,7 @@ Find key metrics and factors and show the meaningful relationships between
 attributes. Do your own research and come up with your findings.
 
 Tools Used:
-Power BI Desktop
-Power Query
-MS Excel
-DAX language
+●Power BI Desktop
+●Power Query
+●MS Excel
+●DAX language
